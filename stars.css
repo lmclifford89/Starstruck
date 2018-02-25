@@ -1,0 +1,58 @@
+
+
+
+.jumbotron{
+	background-image: url(back.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+
+
+.fontplay{
+	color: white;
+	margin-left: 20px;
+
+}
+
+
+#inputemail {
+	width:300px;
+}
+
+.rowno{
+
+width:100%;
+margin: 0 auto;
+padding-top: 50px;
+padding-bottom: 50px;
+/*background-color: ;*/
+}
+
+.summary{
+	text-align: center;
+}
+
+.card-img-top{
+
+	width:100%;
+}
+
+#midbtn{
+	margin-top: 20px;
+}
+
+
+#appicon{
+	width: 200px;
+	text-align: center;
+}
+
+
+#footer {
+	background-color:#040D26;    /* #0C021D;*/  
+	padding-top:20px;
+	margin-top: 50px;
+}
